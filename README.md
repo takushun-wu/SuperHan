@@ -7,7 +7,7 @@ A large character set Songti(Mincho) fonts mainly derived by [Source Han Serif](
 ## 文件构成
 ### 字体文件
 - `ttf/SuperHan[0|2|3]ivd.ttf` 三个单独的TrueType字体文件，每个字体文件包含对应平面的字符，数字代表平面编号。<br>
-（0—BMP，基本多文种平面；2—SIP，扩展多表意文字平面；3—TIP，表意文字第三平面）
+（0—BMP，基本多文种平面；2—SIP，扩展表意文字平面；3—TIP，表意文字第三平面）
 - `ttf/SuperHanivd.ttc` 包含以上三个字体的整合包。
 > 一般用户仅需选择两组中的任意一组安装即可。
 - `woff/*.woff`、`woff2/*.woff2` 以上三个字体的网络字体形式，方便网站调用。
